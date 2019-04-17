@@ -7,7 +7,6 @@ I've realized that I mostly like hearing about my friends' lives when I talk to 
 Though I do keep a diary of sorts, this will also help keep track of things going on.
 
 #4/17/2019
-I don't have much time, so this is going to be fairly curt.
 Finals are almost upon me. I taught someone how to play piano over this past week. (They only knew how to play guitar and wanted to learn how piano chords work.)
 I might apply for this Ingenuity Awards thing, but I'm not sure if my current idea for Tech Relief (my "startup" in the works) is really all that cool. The deadline is within the next two days though so that will sort itself out. I may decide to pitch something cooler, like having bots that actually stop natural disasters in action.
 Talk to me about relationship stuff.
