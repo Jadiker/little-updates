@@ -7,15 +7,16 @@ I've realized that I mostly like hearing about my friends' lives when I talk to 
 Though I do keep a diary of sorts, this will also help keep track of things going on.
 
 # 4/17/2019
-Finals are almost upon me. I taught someone how to play piano over this past week. (They only knew how to play guitar and wanted to learn how piano chords work.)
-I might apply for this Ingenuity Awards thing, but I'm not sure if my current idea for Tech Relief (my "startup" in the works) is really all that cool. The deadline is within the next two days though so that will sort itself out. I may decide to pitch something cooler, like having bots that actually stop natural disasters in action.
-Talk to me about relationship stuff.
-My aunt and uncle are going to have a baby which is really exciting! :)
-These past couple days I worked a lot on the Practical Theorem Prover, and got it to prove the isosceles triangle theorem which I'm pretty happy about.
-Some questions on my mind:
-- Why are protesters often times seen as second-class citizens? The rich / people with power don't protest. (Is this true?) Why not? Does this mean that we inherently see protesters as being less powerful / weak / not as important as others? Does this inherently invalidate part of the purpose of protesting?
+- Finals are almost upon me.
+- I taught someone how to play piano over this past week. (They only knew how to play guitar and wanted to learn how piano chords work.)
+- I might apply for the Harvard Innovation Lab's (iLab) Ingenuity Awards, but I'm not sure if my current idea for Tech Relief (my "startup" in the works) is really all that cool. The deadline is within the next two days though so that will sort itself out. I may decide to pitch something cooler, like having bots that actually stop natural disasters in action.
+- Talk to me about relationship stuff.
+- My aunt and uncle are going to have a baby which is really exciting! :)
+- These past couple days I worked a lot on the Practical Theorem Prover, and got it to prove the isosceles triangle theorem which I'm pretty happy about.
+- Some questions on my mind:
+    - Why are protesters often times seen as second-class citizens? The rich / people with power don't protest. (Is this true?) Why not? Does this mean that we inherently see protesters as being less powerful / weak / not as important as others? Does this inherently invalidate part of the purpose of protesting?
 
-Here's an email I sent to the e-sports club here:
+- Here's an email I sent to the e-sports club here:
 > Hello,
 > 
 > I know I haven't been very active in this community, like, at all, but I have some exciting news to share.
@@ -32,6 +33,8 @@ Here's an email I sent to the e-sports club here:
 > 
 > Best,
 > London Lowmanstone
+
+- Ooh, I almost forgot, I also introduced one of my friends to VR! She's a fantastic artist, and it was amazing to see her build up worlds from scratch in VR.
 
 So yeah, that's a quick overview of some of the things going on in my life this week.
 Hopefully this will work for me better than Snapchat for staying in touch with you all and letting you know what's going on with me.
