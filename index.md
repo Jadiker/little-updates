@@ -1,4 +1,4 @@
-#Little Updates On Me
+# Little Updates On Me
 
 This is a very basic site meant for giving updates to my friends as to what's going on in my life.
 Obviously, this is public, so I won't go very much into details, but feel free to message me personally, and I'll be happy to talk there.
@@ -6,7 +6,7 @@ Obviously, this is public, so I won't go very much into details, but feel free t
 I've realized that I mostly like hearing about my friends' lives when I talk to them, and I don't like talking about my life, so hopefully putting it into a website will help me talk a little bit more :)
 Though I do keep a diary of sorts, this will also help keep track of things going on.
 
-#4/17/2019
+# 4/17/2019
 Finals are almost upon me. I taught someone how to play piano over this past week. (They only knew how to play guitar and wanted to learn how piano chords work.)
 I might apply for this Ingenuity Awards thing, but I'm not sure if my current idea for Tech Relief (my "startup" in the works) is really all that cool. The deadline is within the next two days though so that will sort itself out. I may decide to pitch something cooler, like having bots that actually stop natural disasters in action.
 Talk to me about relationship stuff.
