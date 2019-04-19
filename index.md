@@ -45,3 +45,9 @@ I love that I don't even have to use a web browser to update this - I just type 
 Yesterday I played softball in intramurals (IMs). Today I lost my wallet. Now I have to figure out either where my wallet is, or how I'm going to get an ID in order to get home.
 
 I did apply for the Ingenuity Awards with the idea of having people use computers in virtual reality. We'll see what happens.
+
+Some of my friends recommended putting photos on here. I'm not exactly sure how to do that, but I'll try :)
+
+Let's see if this works for displaying the image:
+
+![an image of me with the people I played Softball with](Softball.jpg)
