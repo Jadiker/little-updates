@@ -38,3 +38,10 @@ Though I do keep a diary of sorts, this will also help keep track of things goin
 
 So yeah, that's a quick overview of some of the things going on in my life this week.
 Hopefully this will work for me better than Snapchat for staying in touch with you all and letting you know what's going on with me.
+
+# 4/18/2019
+I love that I don't even have to use a web browser to update this - I just type in my code editor and use git and know that it's been updated. Pretty cool.
+
+Yesterday I played softball in intramurals (IMs). Today I lost my wallet. Now I have to figure out either where my wallet is, or how I'm going to get an ID in order to get home.
+
+I did apply for the Ingenuity Awards with the idea of having people use computers in virtual reality. We'll see what happens.
