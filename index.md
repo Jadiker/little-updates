@@ -55,3 +55,5 @@ Let's see if this works for displaying the image:
 Yay! Looks like it works. Cool. Thanks for the suggestion! :)
 
 Interview tomorrow for another startup-related program that you can only get into as a sophomore. We'll see what happens!
+
+Also, along the lines of the interview, I just had a funny experience that tells you how I plan things for myself. Alarm goes off at midnight with the title "Go to bed" to remind me that I need to go to bed earlier than 2AM (or what has actually lately been closer to 4AM). I snooze it. 9 minutes later, it goes off again. I'm reading a Quora article. (Quora sucks up a lot of time and I get very distracted by it, but also learn a lot of things that can end up being randomly useful.) I snooze the alarm again. Then, at 12:10, a little notification pops up on my phone that says "Interview tomorrow!" And it's at that point that I say out loud "Okaaay, fine!" and close down Quora. Apparently it also takes three alarms to get me to go to bed :P (Also, props to myself for actually setting that reminder. Lack of props to myself for typing this up instead of going to bed.)
