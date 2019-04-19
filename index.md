@@ -51,3 +51,7 @@ Some of my friends recommended putting photos on here. I'm not exactly sure how 
 Let's see if this works for displaying the image:
 
 ![an image of me with the people I played Softball with](Softball.jpg)
+
+Yay! Looks like it works. Cool. Thanks for the suggestion! :)
+
+Interview tomorrow for another startup-related program that you can only get into as a sophomore. We'll see what happens!
