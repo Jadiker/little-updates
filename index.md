@@ -62,3 +62,5 @@ Also, along the lines of the interview, I just had a funny experience that tells
 Stressed about homework. Played against the DOTA AI today and got crushed. However, me and my friends got 4 kills against it and survived for over 20 minutes, so I'm very happy with that result :)
 
 I did the interview for the [tech fellows cohort](https://www.hbs.edu/mba/seas/Pages/default.aspx) today, and it went super duper well. I'm really hoping I get into it.
+
+Oh, also, in other news, one of the deans of the houses here is the head of the legal defense for Harvey Weinstein. So a lot of people are requesting that he step down. Message me if you'd like to hear my opinions on it.
