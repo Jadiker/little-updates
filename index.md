@@ -30,9 +30,6 @@ Though I do keep a diary of sorts, this will also help keep track of things goin
 > They ask that people register [here](https://arena.openai.com/#/register) so that they know how many servers they need to have running their AI in each area.
 > 
 > Hopefully we can figure out a way to beat them!
-> 
-> Best,
-> London Lowmanstone
 
 - Ooh, I almost forgot, I also introduced one of my friends to VR! She's a fantastic artist, and it was amazing to see her build up worlds from scratch in VR.
 
