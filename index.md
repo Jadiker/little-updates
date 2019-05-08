@@ -80,3 +80,5 @@ I asked my crush to my house formal. She said yes. Message me for photos. We wen
 Working on getting a website up and running for senior theses at Harvard. I don't like the fact that these theses get printed up and then dissappear, and I'm certain that many of them have really good and understandable ideas because they're written by undergrads (not grad student who tend to abuse terminology). So, I'm really looking forward to having them hosted. I'll try to link here to the site once it's up and running.
 
 Finals are pretty spread out and nice, so nothing too big. Basically just getting stuff done and playing until school ends :)
+
+(Also, I'll be posting less photos on here. Given the emergence of [deepfakes](thispersondoesnotexist.com), I've become even more restrictive as to what photos of me I put online, especially without explicit permission from others. Since this is open to anyone on the internet, I'm probably not going to post many photos. That said, message me if you would like photos of particular events.)
