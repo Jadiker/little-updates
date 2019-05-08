@@ -39,7 +39,7 @@ Hopefully this will work for me better than Snapchat for staying in touch with y
 # 4/18/2019
 I love that I don't even have to use a web browser to update this - I just type in my code editor and use git and know that it's been updated. Pretty cool.
 
-Yesterday I played softball in intramurals (IMs). Today I lost my wallet. Now I have to figure out either where my wallet is, or how I'm going to get an ID in order to get home.
+Yesterday I played softball in intramurals (IMs). Today I lost my. Now I have to figure out either where my wallet is, or how I'm going to get an ID in order to get home.
 
 I did apply for the Ingenuity Awards with the idea of having people use computers in virtual reality. We'll see what happens.
 
@@ -68,3 +68,15 @@ I recently got my Practical Theorem Prover to prove the isosceles triangle theor
 A paper I submitted to a college undergrad journal got rejected, but that's alright. It's a paper where I think it's more geared towards the class I wrote it for than a general audience anyway. I wrote it for Epistemology. The idea I think applies to everyone, but the examples I use in the paper are more class-specific. The idea in the paper (that I think is really cool) is that if our definition of what knowledge is a list of criteria that we can use to determine whether or not something is knowledge, then we can't have knowledge without making some assumptions. The argument is that if our definition of knowledge is a list of criteria, then in order to determine whether we know something, we have to down the criteria and check to see if each thing is true. More importantly, we have to *know* that each criteria is true in order to determine whether we know the original thing. So then it becomes this infinite loop that we can never really evaluate without making assumptions at some point. As always, message me or call me for a (hopefully) better explanation :)
 
 Ooh also this may or may not be new news, but I have some articles I'm writing under a pseudonym. Again, message me if you'd like more details and to see the articles.
+
+# 5/7/2019
+
+I haven't been updating this in a while, but I'm also assuming nobody's really looked at it in a while.
+
+I did find my wallet the day of, so sorry for not putting an update about that. A friend had picked it up but she contacted me on groupme and I didn't see it until past midnight.
+
+I asked my crush to my house formal. She said yes. Message me for photos. We went to parties two night in a row and it's been a blast. Of course, message me for relationship updates as well.
+
+Working on getting a website up and running for senior theses at Harvard. I don't like the fact that these theses get printed up and then dissappear, and I'm certain that many of them have really good and understandable ideas because they're written by undergrads (not grad student who tend to abuse terminology). So, I'm really looking forward to having them hosted. I'll try to link here to the site once it's up and running.
+
+Finals are pretty spread out and nice, so nothing too big. Basically just getting stuff done and playing until school ends :)
