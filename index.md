@@ -82,3 +82,7 @@ Working on getting a website up and running for senior theses at Harvard. I don'
 Finals are pretty spread out and nice, so nothing too big. Basically just getting stuff done and playing until school ends :)
 
 (Also, I'll be posting less photos on here. Given the emergence of [deepfakes](thispersondoesnotexist.com), I've become even more restrictive as to what photos of me I put online, especially without explicit permission from others. Since this is open to anyone on the internet, I'm probably not going to post many photos. That said, message me if you would like photos of particular events.)
+
+# 5/9/2019
+
+I made it into the tech fellows program! I'm super duper excited.
