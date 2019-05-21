@@ -65,7 +65,7 @@ Oh, also, in other news, one of the deans of the houses here is the head of the 
 # 4/24/2019
 I recently got my Practical Theorem Prover to prove the isosceles triangle theorem, that an isosceles triangle has two internally equal angles, so I'm excited about that. Emailed my professors from last semester who let me build the theorem prover and write about it for my final paper, and one of them seemed fairly interested, which was pretty cool. The trio of professors from that class is pretty amazing: Eric Maskin, Barry Mazur, and Amartya Sen
 
-A paper I submitted to a college undergrad journal got rejected, but that's alright. It's a paper where I think it's more geared towards the class I wrote it for than a general audience anyway. I wrote it for Epistemology. The idea I think applies to everyone, but the examples I use in the paper are more class-specific. The idea in the paper (that I think is really cool) is that if our definition of what knowledge is a list of criteria that we can use to determine whether or not something is knowledge, then we can't have knowledge without making some assumptions. The argument is that if our definition of knowledge is a list of criteria, then in order to determine whether we know something, we have to down the criteria and check to see if each thing is true. More importantly, we have to *know* that each criteria is true in order to determine whether we know the original thing. So then it becomes this infinite loop that we can never really evaluate without making assumptions at some point. As always, message me or call me for a (hopefully) better explanation :)
+A paper I submitted to a college undergrad journal got rejected, but that's alright. It's a paper where I think it's more geared towards the class I wrote it for than a general audience anyway. I wrote it for Epistemology. The idea I think applies to everyone, but the examples I use in the paper are more class-specific. The idea in the paper (that I think is really cool) is that if our definition of what knowledge is a list of criteria that we can use to determine whether or not something is knowledge, then we can't have knowledge without making some assumptions. The argument is that if our definition of knowledge is a list of criteria, then in order to determine whether we know something, we have to go down the criteria and check to see if each thing is true. More importantly, we have to *know* that each criteria is true in order to determine whether we know the original thing. So then it becomes this infinite loop that we can never really evaluate without making assumptions at some point. As always, message me or call me for a (hopefully) better explanation :)
 
 Ooh also this may or may not be new news, but I have some articles I'm writing under a pseudonym. Again, message me if you'd like more details and to see the articles.
 
@@ -85,4 +85,14 @@ Finals are pretty spread out and nice, so nothing too big. Basically just gettin
 
 # 5/9/2019
 
-I made it into the tech fellows program! I'm super duper excited.
+I made it into the [tech fellows](https://www.hbs.edu/mba/seas/Pages/default.aspx) program! I'm super duper excited.
+
+# 5/20/2019
+
+I released another thing (idk if you'd call it an essay) under a pseudonym. Again, contact me if you'd like to see it. I know that someone could probably correlate the dates, but if someone does that, then they deserve to know who I am.
+
+I'm even debating having an email that people can email if they want to know who I really am. Again, the goal of writing under a pseudonym is just so that it's not *immediately* linkable to me.
+
+I'll be starting my work at the U of M next week on Monday. I'm hoping to be first author on a paper, but I'm not even sure what I'm going to be writing about yet. So we'll see what happens.
+
+I'm also going to be updating this with my Harvard friends more in mind now that I'm back in MN. Before I came here I had shared this site with my Minnesota friends, and now I'll start sharing it with my Harvard friends so that they can get updates.
